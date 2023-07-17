@@ -1,1 +1,1 @@
-# This is small airbnb SQL replica, as an example how to build, and Query, schema for thins kind of apps.
+# This is small Airbnb SQL replica, as an example how to build, and Query, schema for this kind of apps.
